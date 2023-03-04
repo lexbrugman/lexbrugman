@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @lexbrugman
+👋 Hi, I’m [@lexbrugman](https://lexbrugman.github.io/resume/)
